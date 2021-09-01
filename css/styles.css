@@ -27,6 +27,7 @@ main {
   display: flex;
   flex-direction: column;
   max-width: 300px;
+  box-shadow: 2px 5px 20px hsl(273, 44%, 42%);
 }
 
 /* IMAGE */
